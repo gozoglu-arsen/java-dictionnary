@@ -1,0 +1,5 @@
+Bouton hasard : génère un mot aléatoire à partir de Fichiers/dico.txt
+Bouton chercher : Cherche une définition sur larousse et récupère la première image de gettyImage
+Boutton modifier/ajouter : ajoute/modifie une définition
+Boutton modifier/ajouter une image : ajoute/modifie une image
+boutton supprimer : supprime le mot 
